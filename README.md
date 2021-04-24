@@ -1,4 +1,4 @@
-<h1 align="center"> Hi hi! I'm **André** ⚡</h1>
+<h1 align="center"> Hi hi! I'm <strong>André</strong> ⚡</h1>
 
 <p align="center">- 🌱 I’m learning HTML/CSS/JS.⚡</p>
 
