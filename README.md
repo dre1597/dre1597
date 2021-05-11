@@ -8,6 +8,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre1597&layout=compact&exclude_repo=Alura-imersao-3"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre1597&layout=compact&exclude_repo=Alura-imersao-3,Vanilla-JS-projects-FCC"
   />
 </a>
