@@ -3,7 +3,6 @@
 - 🌱 I’m learning HTML/CSS/JS.⚡
 
 - 📫 You can contact me on [Linkedin.](https://www.linkedin.com/in/dre1597/)
-- 
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
