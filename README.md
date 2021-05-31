@@ -18,6 +18,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre1597&layout=compact&exclude_repo=Alura-imersao-3,Vanilla-JS-projects,Tribute-page-FCC,Survey-form-FCC, Product-landing-page-FCC,BasicProjectsWeb,Personal-portfolio-webpage-FCC,Technical-documentation-page-FCC"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre1597&layout=compact&exclude_repo=Alura-imersao-3,Vanilla-JS-projects,Tribute-page-FCC,Survey-form-FCC, Product-landing-page-FCC,BasicProjectsWeb,Personal-portfolio-webpage-FCC,Technical-documentation-page-FCC, rails-zeStoreDerivery"
   />
 </a>
