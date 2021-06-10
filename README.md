@@ -2,7 +2,7 @@
 <h2 align="center"> ⚡ You can call me just Dré</h2>
 <h3 align="center">A rising brazilian developer with a focus in Web development</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, Vue.js, Java, Nodejs**
+- 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, React, Vue.js, Java, Nodejs**
 
 
 <h3 align="left">Connect with me:</h3>
