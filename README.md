@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Pereira</h1>
-<h2 align="center"> ⚡ You can call me just Dré</h2>
+<h2 align="center"> ⚡ You can call me Dré</h2>
 <h3 align="center">A rising brazilian developer with a focus in Web development</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, React, Vue.js, Java, Nodejs**
