@@ -2,9 +2,6 @@
 <h2 align="center"> ⚡ You can call me Dré</h2>
 <h3 align="center">A rising brazilian developer with a focus in Web development</h3>
 
-- 🌱 I’m currently learning **React, Nodejs**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dre1597/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
