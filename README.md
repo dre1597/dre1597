@@ -56,6 +56,12 @@
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
