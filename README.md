@@ -6,6 +6,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dre1597/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </p>
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://en.cppreference.com/w/c/language" target="_blank">
@@ -27,6 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://linux.org/" target="_blank">
@@ -60,6 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://expressjs.com/" target="_blank">
@@ -75,6 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="adonisjs" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="left">Databases:</h3>
 <p align="left">
    <a href="https://www.mysql.com/" target="_blank">
@@ -87,6 +91,17 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Learning right now:</h3>
+<p align="left">
+   <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="postgres" width="40" height="40"/>
+  </a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
