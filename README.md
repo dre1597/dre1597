@@ -67,7 +67,7 @@ Others tools:
 
 ### **My Setup**
 
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-GTX750TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Pop!_OS%2022.04%20LTS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-GTX750TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 <br>
 
