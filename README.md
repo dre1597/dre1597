@@ -14,8 +14,6 @@ I believe in the importance of collaboration and efficient communication, essent
 
 ### About me [PT-BR]
 
-Desenvolvedor Full Stack especializado em desenvolvimento web. Com forte atuação no backend, possuo habilidades avançadas em JavaScript e seus frameworks, incluindo Express, Adonis, NestJS, Angular e React. 
-
 Sou um desenvolvedor Full Stack especializado em desenvolvimento web, com experiência sólida na área de backend. Minhas principais habilidades estão no ecossistema JavaScript, incluindo frameworks como NestJS, Adonis, Express, Angular e React.
 
 Além disso, possuo conhecimentos em práticas de desenvolvimento ágil, especialmente Scrum e integração contínua. Também atuei brevemente com Java e o Spring Framework, despertando minha curiosidade e vontade de aprofundar meus conhecimentos nesse ecossistema.
