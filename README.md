@@ -6,19 +6,19 @@
 
 ### About me [EN]
 
-I am a Full Stack developer specialized in web development, with solid experience in backend. My main skills are in the JavaScript ecosystem, including frameworks like NestJS, Adonis, Express, Angular, and React.
+I am a Full Stack developer specialized in web development, with diverse experience in projects, including ERP's, LMS, video streaming, landing pages, and more. My main skills lie in the JavaScript ecosystem, covering frameworks such as NestJS, Adonis, Express, Angular, React, and React Native. I also have experience with Java and Spring, as well as databases like MySQL, PostgreSQL, and MongoDB.
 
-Additionally, I have knowledge in agile development practices, especially Scrum and continuous integration. I have also briefly worked with Java and the Spring Framework, which has sparked my curiosity and desire to deepen my knowledge in this ecosystem.
+I highlight my proficiency in agile development practices, with a solid understanding of methodologies such as Scrum and Kanban, along with experience in continuous integration.
 
-I believe in the importance of collaboration and efficient communication, essential skills to turn ideas into reality.
+Throughout my career, I have used essential tools for collaborative development and project management. This includes expertise in version control using Git, GitHub, Bitbucket, and Beanstalk, as well as the effective use of task tracking tools such as Jira, Trello, and Monday to ensure efficient project lifecycle management.
 
 ### About me [PT-BR]
 
-Sou um desenvolvedor Full Stack especializado em desenvolvimento web, com experiência sólida na área de backend. Minhas principais habilidades estão no ecossistema JavaScript, incluindo frameworks como NestJS, Adonis, Express, Angular e React.
+Sou um desenvolvedor Full Stack especializado em desenvolvimento web, com experiência diversificada em projetos, incluindo ERP's, LMS, streaming de vídeos, landing pages e mais. Minhas principais competências estão no ecossistema JavaScript, abrangendo frameworks como NestJS, Adonis, Express, Angular, React e React Native. Minha experiência também se estende ao Java e ao Spring, assim como bancos de dados MySQL, PostgreSQL e MongoDB.
 
-Além disso, possuo conhecimentos em práticas de desenvolvimento ágil, especialmente Scrum e integração contínua. Também atuei brevemente com Java e o Spring Framework, despertando minha curiosidade e vontade de aprofundar meus conhecimentos nesse ecossistema.
+Destaco minha proficiência em práticas de desenvolvimento ágil, com conhecimento sólido em metodologias como Scrum e Kanban, e experiência em integração contínua.
 
-Acredito na importância da colaboração e da comunicação eficiente, habilidades essenciais para transformar ideias em realidade.
+Ao longo da minha carreira, utilizei ferramentas essenciais para o desenvolvimento colaborativo e gerenciamento de projetos. Isso inclui expertise em controle de versão usando Git, GitHub, Bitbucket e Beanstalk, bem como o uso efetivo de ferramentas de acompanhamento de tarefas, como Jira, Trello e Monday, para garantir uma gestão eficiente do ciclo de vida do projeto.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
