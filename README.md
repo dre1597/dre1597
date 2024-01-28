@@ -4,9 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-dre1597-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dre1597/)](https://www.linkedin.com/in/dre1597/)
 
-### **Check out my CV [PT-BR]**
+### **Check out my CV [EN]**
 
-[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/efb31z0z9e9gi1r38pzdf/curriculo-andre-jan-2024.pdf?rlkey=wbhqcrobdbc8k3kxw469bx19c&dl=0)
+[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/3toasylu24hum2j03bq78/curriculo-andre-jan-2024-en.pdf?rlkey=d8fjce121duf3z3oxsjonn2zo&dl=0)
 
 
 
@@ -19,6 +19,10 @@ I am collaborative and possess excellent communication skills, which I consider 
 I highlight my proficiency in agile development practices, with a solid understanding of methodologies like Scrum and Kanban, and experience in continuous integration.
 
 I have also utilized essential tools for collaborative development and project management. This includes expertise in version control using Git, GitHub, Bitbucket, and Beanstalk, as well as effective use of task tracking tools like Jira, Trello, and Monday to ensure efficient project lifecycle management.
+
+### **Dê uma olhada no meu currículo [PT-BR]**
+
+[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/efb31z0z9e9gi1r38pzdf/curriculo-andre-jan-2024.pdf?rlkey=wbhqcrobdbc8k3kxw469bx19c&dl=0)
 
 ### Sobre mim [PT-BR]
 
