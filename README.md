@@ -18,7 +18,7 @@ I am collaborative and possess excellent communication skills, which I consider 
 
 I highlight my proficiency in agile development practices, with a solid understanding of methodologies like Scrum and Kanban, and experience in continuous integration.
 
-I have also utilized essential tools for collaborative development and project management. This includes expertise in version control using Git, GitHub, Bitbucket, and Beanstalk, as well as effective use of task tracking tools like Jira, Trello, and Monday to ensure efficient project lifecycle management.
+I have also utilized essential tools for collaborative development and project management. This includes expertise in version control using Git, GitHub, Bitbucket and Beanstalk, as well as effective use of task tracking tools like Jira, Trello, and Monday to ensure efficient project lifecycle management.
 
 ### **Dê uma olhada no meu currículo [PT-BR]**
 
