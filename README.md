@@ -44,4 +44,4 @@ Também utilizei ferramentas essenciais para o desenvolvimento colaborativo e ge
 <br/>
 <br/>
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=dre1597&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=dre1597&row=1&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
