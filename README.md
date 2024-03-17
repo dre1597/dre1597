@@ -6,7 +6,7 @@
 
 ### **Check out my CV [EN]**
 
-[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/3toasylu24hum2j03bq78/curriculo-andre-jan-2024-en.pdf?rlkey=d8fjce121duf3z3oxsjonn2zo&dl=0)
+[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/6nkyxzdw8k4bd5yqko2sv/curriculo-andre-mar-2024-en.pdf?rlkey=nxiwymnj3pus5yp9u53gazgrb&dl=0)
 
 
 
@@ -22,7 +22,7 @@ I have also utilized essential tools for collaborative development and project m
 
 ### **Dê uma olhada no meu currículo [PT-BR]**
 
-[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/efb31z0z9e9gi1r38pzdf/curriculo-andre-jan-2024.pdf?rlkey=wbhqcrobdbc8k3kxw469bx19c&dl=0)
+[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/4cy5kwgogwg4c8bwmqzj4/curriculo-andre-mar-2024.pdf?rlkey=6ac5f7jvu9gr9q2mmhbfcra63&dl=0)
 
 ### Sobre mim [PT-BR]
 
