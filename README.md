@@ -12,7 +12,7 @@
 
 ### About me [EN]
 
-I am a Full Stack developer specialized in web development, with diverse experience in projects such as ERP, LMS, video streaming, landing pages, and more. My main expertise lies in the JavaScript ecosystem, covering frameworks like NestJS, Adonis, Express, Angular, and React. I also have experience with Java and Spring, as well as databases such as MySQL, PostgreSQL, and MongoDB.
+I am a Full Stack developer specialized in web development, with diverse experience in projects such as ERP, LMS, video streaming, landing pages, and more. My main expertise lies in the JavaScript ecosystem, covering frameworks like NestJS, Adonis, Express, Angular, React and React Native. I also have experience with Java and Spring, as well as databases such as MySQL, PostgreSQL, and MongoDB.
 
 I am collaborative and possess excellent communication skills, which I consider essential for daily work.
 
@@ -26,7 +26,7 @@ I have also utilized essential tools for collaborative development and project m
 
 ### Sobre mim [PT-BR]
 
-Sou um desenvolvedor Full Stack especializado em desenvolvimento web, com experiência diversificada em projetos, incluindo ERP, LMS, streaming de vídeos, landing pages e mais. Minhas principais competências estão no ecossistema JavaScript, abrangendo frameworks como NestJS, Adonis, Express, Angular, React. Minha experiência também se estende ao Java e ao Spring, assim como bancos de dados MySQL, PostgreSQL e MongoDB.
+Sou um desenvolvedor Full Stack especializado em desenvolvimento web, com experiência diversificada em projetos, incluindo ERP, LMS, streaming de vídeos, landing pages e mais. Minhas principais competências estão no ecossistema JavaScript, abrangendo frameworks como NestJS, Adonis, Express, Angular, React e React Native. Minha experiência também se estende ao Java e ao Spring, assim como bancos de dados MySQL, PostgreSQL e MongoDB.
 
 Sou colaborativo e possuo excelentes habilidades de comunicação, o que considero fundamental para o dia a dia de trabalho.
 
