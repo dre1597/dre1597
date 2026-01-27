@@ -27,5 +27,3 @@ Possuo mais de 4 anos de experiência em desenvolvimento web, especialmente no e
 
 <br/>
 <br/>
-
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=dre1597&row=1&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
