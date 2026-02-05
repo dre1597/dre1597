@@ -17,13 +17,5 @@ Possuo mais de 4 anos de experiência em desenvolvimento web, especialmente no e
 
 [![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/omadtnrntifubwdxbkx6e/curriculo-andre-dez-2024.pdf?rlkey=cwhm0kfyrgzwtz36qce28cgxy&st=sal1p1f4&dl=0)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre1597&layout=compact&hide=jupyter%20notebook"
-  />
-</a>
-
 <br/>
 <br/>
