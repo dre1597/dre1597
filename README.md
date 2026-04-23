@@ -20,7 +20,9 @@ de performance** e na estruturação de soluções orientadas a especificação 
 
 ### **Dê uma olhada no meu currículo [PT-BR]**
 
-[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/omadtnrntifubwdxbkx6e/curriculo-andre-dez-2024.pdf?rlkey=cwhm0kfyrgzwtz36qce28cgxy&st=sal1p1f4&dl=0)
+<a href="https://www.dropbox.com/scl/fi/moreimfw8dqyslscqafj4/curriculo-andre-abril-2026.pdf?rlkey=u2qckqw25hmc0qstp66slx2a0&st=3ga2uto4&dl=0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white" />
+</a>
 
 <br/>
 <br/>
