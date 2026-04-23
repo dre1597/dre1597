@@ -7,11 +7,16 @@
 
 ### About me [EN]
 
-I have over 4 years of experience in web development, with a strong focus on the **Node.js** ecosystem. Throughout my career, I have been involved in various projects, such as **ERPs**, **LMS**, **delivery platforms**, **financial reconciliation systems**, **administrative dashboards**, and more, always striving to deliver efficient and high-quality solutions. I have a **collaborative** and **transparent** profile, with extensive experience working in **agile teams**, always committed to delivering results that meet business needs.
+**Fullstack Developer** with **5 years of experience** specializing in **TypeScript and Node.js**, with a strong focus on **NestJS, Express, React, and Angular**. I am a collaborative and transparent professional with extensive experience in **Agile environments**, committed to delivering high-impact results that align with business goals.
+
+I have a proven track record in **refactoring legacy systems** to achieve significant performance gains and architecting specification-driven solutions—both with and without AI assistance. My background includes **international projects** and high-criticality systems, where I have managed **large-scale data processing** and solved complex technical challenges across diverse business sectors.
 
 ### Sobre mim [PT-BR]
 
-Possuo mais de 4 anos de experiência em desenvolvimento web, especialmente no ecossistema **Node.js**. Ao longo da minha carreira, participei de diversos projetos, como **ERPs**, **LMS**, **plataformas de entregas**, **conciliação financeira**, **dashboards administrativos**, entre outros, sempre buscando entregar soluções eficientes e de alta qualidade. Tenho um perfil **colaborativo** e **transparente**, com forte atuação em **equipes ágeis**, sempre comprometido com a entrega de resultados que atendam às necessidades de negócio.
+**Desenvolvedor Fullstack** com **5 anos de experiência** em **TypeScript e Node.js**, com foco em **NestJS, Express, React e Angular**. Tenho um perfil colaborativo e transparente, com forte atuação em **equipes ágeis**, sempre comprometido com a entrega de resultados que atendam às necessidades de negócio. 
+
+Possuo sólida vivência na **refatoração de sistemas legados** para **ganho
+de performance** e na estruturação de soluções orientadas a especificação com e sem o uso de IA. Tenho experiência em **projetos internacionais** e em sistemas de alta criticidade, atuando no processamento de **grandes volumes de dados** e na resolução de desafios técnicos diversificados em diferentes frentes de negócio.
 
 ### **Dê uma olhada no meu currículo [PT-BR]**
 
