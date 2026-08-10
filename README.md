@@ -7,21 +7,22 @@
 
 ### About me [EN]
 
-Full-Stack Developer with 5 years of experience across the TypeScript ecosystem (Node.js/NestJS), Java (Spring Boot), and modern frontend frameworks (React, Vue/Nuxt, Angular). Proven track record in agile, international environments with daily business English communication. Strong expertise in delivering end-to-end solutions—ranging from scalable microservices architecture, REST APIs, and high-volume legacy refactoring to building performant, secure interfaces for Web3 and fintech ecosystems. Proficient in automated testing, specification-driven development, and leveraging AI tools to drive engineering productivity and product quality.
+Fullstack Developer with 5 years of experience in TypeScript (Node.js/NestJS) and Java (Spring Boot), as well as experience in Web3/DeFi projects using Vue.js/Nuxt.js. Experienced in international agile environments with daily communication in English, working on scalable systems ranging from microservices architecture and REST APIs to the refactoring of critical legacy systems. Skilled in performance optimization, operational efficiency, and relational and non-relational data modeling in high-volume environments. Focused on delivering quality through automated testing, specification-driven development, code reviews, and software engineering best practices.
 
 ### Sobre mim [PT-BR]
 
-Desenvolvedor Fullstack com 5 anos de experiência em TypeScript (Node.js/NestJS) e Java (Spring
-Boot), além de atuação em projetos de Web3/DeFi com Vue.js/Nuxt.js. Experiência em ambientes
-internacionais ágeis e comunicação diária em inglês, atuando no desenvolvimento de sistemas escaláveis,
-desde a arquitetura de microsserviços e APIs REST até a refatoração de sistemas legados críticos.
-Atuação na otimização de performance e eficiência operacional, lidando com alta volumetria de dados.
-Trabalha com testes automatizados, desenvolvimento orientado a especificação e uso de IA para
-aumentar a qualidade e produtividade, sempre alinhado às necessidades do negócio.
+Desenvolvedor Fullstack com 5 anos de experiência em TypeScript (Node.js/NestJS) e Java
+(Spring Boot), além de atuação em projetos de Web3/DeFi com Vue.js/Nuxt.js. Experiência em
+ambientes internacionais ágeis e comunicação diária em inglês, atuando no desenvolvimento de
+sistemas escaláveis, desde a arquitetura de microserviços e APIs REST até a refatoração de
+sistemas legados críticos. Atuação na otimização de performance, eficiência operacional e
+modelagem de dados relacionais e não-relacionais em cenários de alta volumetria. Foco na
+entrega com qualidade através de testes automatizados, desenvolvimento orientado a
+especificação, revisão de código e boas práticas de engenharia de software.
 
 ### **Dê uma olhada no meu currículo [PT-BR]**
 
-<a href="https://www.dropbox.com/scl/fi/40zxjvd9sd7kidrwmrttl/Curr-culoAndr-_20260727.pdf?rlkey=tcd6dw1vbgpws09edms65jm3b&st=3bx9zn72&dl=0" target="_blank" rel="noopener noreferrer">
+<a href="https://www.dropbox.com/scl/fi/e3lj72j275ytc3c7wkaq2/curriculo-andre-agosto.pdf?rlkey=i2ac3r0o4e4pwz8k1yjqbsaki&st=6wke6c4y&dl=0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white" />
 </a>
 
